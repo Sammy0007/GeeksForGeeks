@@ -1,0 +1,5 @@
+Stacks:
+In practice you must have a Node class that can hold any data.
+Then your stack class should work taking that node class as element to be stored.
+and object of Node class should be pushed or popped.
+However Strings are simple so people using Strings/Integer objects to push/pop.
